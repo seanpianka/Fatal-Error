@@ -4,7 +4,7 @@ The name of our game is Fatal Error, a networked text-based RPG – an old-style
 
 ## Description
 
-There is a single level which is composed of a 5-by-5 grid. As shown below, the player is initially positioned on the leftmost center square. The grid should be randomly initialized with 2 elements: a backpack (the objective) and evil robot army minions (which you can engage in combat with). You start off with 30 health, and must safely make your way to the objective through the evil robot horde!
+There is a single level which is composed of a large world map/grid. As shown below, the player is initially positioned on the leftmost center square. The grid should be randomly initialized with 2 elements: a backpack (the objective) and evil robot army minions (which you can engage in combat with). You start off with 30 health, and must safely make your way to the objective through the evil robot horde!
 
 <img src="https://puu.sh/vii8Q/2eb19034f8.png">
 
